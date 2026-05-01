@@ -13,9 +13,9 @@ const TelegramBot = require("node-telegram-bot-api");
 //  ⚙️  CONFIG  —  SIRF YAHAN APNA DATA DAALO
 // ════════════════════════════════════════════════════════════════
 const CONFIG = {
-  TOKEN        : "YOUR_BOT_TOKEN_HERE",   // @BotFather se milega
-  ADMIN_ID     : 123456789,               // apna Telegram numeric ID
-  BOT_USERNAME : "CryzenDatingBot",       // @username (without @)
+  TOKEN        : "8256909877:AAGrlrVsWvIBAZ2ctcgugM_OPWT0qrIkq1c",   // @BotFather se milega
+  ADMIN_ID     : 615774366,               // apna Telegram numeric ID
+  BOT_USERNAME : "CryzenDating_Bot",       // @username (without @)
   REFER_HOURS  : 2,                       // refer karne par free VIP hours
   STARS        : { "1d":199, "7d":499, "30d":999, "180d":2999 },
 };
