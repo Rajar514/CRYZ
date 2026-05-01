@@ -1,0 +1,12 @@
+{
+  "name": "cryzen-dating-bot",
+  "version": "3.0.0",
+  "description": "Cryzen Dating Bot",
+  "main": "cryzen_bot.js",
+  "scripts": {
+    "start": "node cryzen_bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
